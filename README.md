@@ -5,7 +5,9 @@ This project is a part of the Data Science virtual internship program offered by
 There are two task provided: 
 
 1.Web scraping to gain company insights
+
 2.Predicting customer buying behaviour
+
 Task 1 - Web scraping to gain company insights
 Customers who book a flight with BA will experience many interaction points with the BA brand. Understanding a customer's feelings, needs, and feedback is crucial for any business, including BA.
 
